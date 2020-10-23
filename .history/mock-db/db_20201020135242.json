@@ -1,0 +1,68 @@
+{
+    "category": [
+        {
+            "id": "1",
+            "image": "",
+            "name": "Phòng bếp"
+        },
+        {
+            "id": "2",
+            "image": "",
+            "name": "Phòng khách"
+        },
+        {
+            "id": "3",
+            "image": "",
+            "name": "Phòng tắm"
+        },
+        {
+            "id": "3",
+            "image": "",
+            "name": "Phòng ngủ"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "image": "",
+            "name": "san pham 1",
+            "price": "5000000",
+            "categoryId": 1
+        },
+        {
+            "id": "2",
+            "image": "",
+            "name": "san pham 2",
+            "price": "500000",
+            "categoryId": 1
+        },
+        {
+            "id": "3",
+            "image": "",
+            "name": "san pham 3",
+            "price": "5000030",
+            "categoryId": 1
+        },
+        {
+            "id": "4",
+            "image": "",
+            "name": "san pham 4",
+            "price": "5002340",
+            "categoryId": 2
+        },
+        {
+            "id": "5",
+            "image": "",
+            "name": "san pham 5",
+            "price": "50022240",
+            "categoryId": 2
+        },
+        {
+            "id": "6",
+            "image": "",
+            "name": "san pham 6",
+            "price": "50022240",
+            "categoryId": 3
+        }
+    ]
+}
